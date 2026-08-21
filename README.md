@@ -1,5 +1,5 @@
 # Ex. No: 8   Packet Tracer: Connect a Router to a LAN
-# Date: ___________
+# Date: 20/08/2026
 ________________________________________<br>
 # Objective
 Configure and verify router LAN/WAN interfaces in Cisco Packet Tracer and test end-to-end connectivity.<br>
@@ -15,7 +15,8 @@ ________________________________________<br>
 •	Copper straight-through cables for LAN links; Serial DCE/DTE cable for WAN link <br>
 ________________________________________<br>
 # Network Topology Diagram
-(Insert your Packet Tracer screenshot showing R1—S1—PC1/PC2 and R2—S2—PC3/PC4, plus R1–R2 Serial link S0/0/0.)<br>
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/babc1ebb-c5c3-47e6-8096-31cba4b260a8" />
+<br>
 ________________________________________<br>
 Addressing Table (from activity)<br>
 Device	Interface	IP Address	Subnet Mask	Default Gateway<br>
@@ -112,6 +113,12 @@ ________________________________________<br>
 ________________________________________<br>
 # Output (Attach Screenshots)
 •	show ip interface brief on R1 and R2 (after configuration)<br>
+
+<img width="864" height="890" alt="image" src="https://github.com/user-attachments/assets/1e55a1c1-2818-49e9-a355-92b6722093c8" />
+<img width="859" height="880" alt="image" src="https://github.com/user-attachments/assets/9927f222-6a95-43a9-983a-31042ace8d08" />
+
+
+
 •	show ip route on R1 and R2<br>
 •	Successful ping PC1 → PC4; R2 → PC2<br>
 •	Interface up messages after no shutdown on each link <br>

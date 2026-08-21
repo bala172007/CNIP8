@@ -121,6 +121,9 @@ ________________________________________<br>
 
 •	show ip route on R1 and R2<br>
 •	Successful ping PC1 → PC4; R2 → PC2<br>
+<img width="866" height="851" alt="image" src="https://github.com/user-attachments/assets/f2594fa4-8cfa-47bb-b5d5-1c90abb2c44b" />
+<img width="828" height="309" alt="image" src="https://github.com/user-attachments/assets/56e6cc8b-49d3-48e4-aeab-225d22b9259c" />
+
 •	Interface up messages after no shutdown on each link <br>
 ________________________________________<br>
 # Result
